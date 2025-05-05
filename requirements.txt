@@ -1,0 +1,6 @@
+flask
+transformers
+sentence-transformers
+elasticsearch
+openai-whisper
+requests
