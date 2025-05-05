@@ -83,7 +83,7 @@ This POC demonstrates the feasibility of integrating speech recognition, semanti
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Arjun618/DMP-25-Patham_Books-POC.git
    cd Pratham_Books
    ```
 
